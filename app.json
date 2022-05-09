@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Eye bleach",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "eyebleach",
+    "android": {
+      "package": "com.patils.eyebleach",
+      "versionCode": 1
+    }
+  }
+}
